@@ -11,6 +11,30 @@
       "filter": "warm"
     },
     {
+      "id": "kodak_colorplus_200",
+      "name": "Kodak ColorPlus 200",
+      "iso": 200,
+      "expComp": 0.6667,
+      "type": "colorNegative",
+      "filter": "warm"
+    },
+    {
+      "id": "kodak_ultramax_400",
+      "name": "Kodak UltraMax 400",
+      "iso": 400,
+      "expComp": 0.3333,
+      "type": "colorNegative",
+      "filter": "warm"
+    },
+    {
+      "id": "kodak_portra_160",
+      "name": "Kodak Portra 160",
+      "iso": 160,
+      "expComp": 1.0,
+      "type": "colorNegative",
+      "filter": "portra"
+    },
+    {
       "id": "kodak_portra_400",
       "name": "Kodak Portra 400",
       "iso": 400,
@@ -19,8 +43,103 @@
       "filter": "portra"
     },
     {
+      "id": "kodak_portra_800",
+      "name": "Kodak Portra 800",
+      "iso": 800,
+      "expComp": 0.6667,
+      "type": "colorNegative",
+      "filter": "portra"
+    },
+    {
+      "id": "kodak_ektar_100",
+      "name": "Kodak Ektar 100",
+      "iso": 100,
+      "expComp": 0.0,
+      "type": "colorNegative",
+      "filter": "ektar"
+    },
+    {
+      "id": "fujifilm_200",
+      "name": "Fujifilm 200",
+      "iso": 200,
+      "expComp": 0.0,
+      "type": "colorNegative",
+      "filter": "fuji"
+    },
+    {
+      "id": "fujifilm_superia_xtra_400",
+      "name": "Fujifilm Superia X-TRA 400",
+      "iso": 400,
+      "expComp": 0.0,
+      "type": "colorNegative",
+      "filter": "fuji"
+    },
+    {
+      "id": "lomography_color_400",
+      "name": "Lomography Color 400",
+      "iso": 400,
+      "expComp": 0.3333,
+      "type": "colorNegative"
+    },
+    {
       "id": "kodak_tri_x_400",
       "name": "Kodak Tri-X 400",
+      "iso": 400,
+      "expComp": 0.0,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "kodak_tmax_100",
+      "name": "Kodak T-Max 100",
+      "iso": 100,
+      "expComp": 0.0,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "kodak_tmax_400",
+      "name": "Kodak T-Max 400",
+      "iso": 400,
+      "expComp": 0.0,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "ilford_hp5_plus_400",
+      "name": "Ilford HP5 Plus 400",
+      "iso": 400,
+      "expComp": 0.3333,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "ilford_fp4_plus_125",
+      "name": "Ilford FP4 Plus 125",
+      "iso": 125,
+      "expComp": 0.0,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "ilford_delta_100",
+      "name": "Ilford Delta 100",
+      "iso": 100,
+      "expComp": 0.0,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "ilford_delta_3200",
+      "name": "Ilford Delta 3200",
+      "iso": 3200,
+      "expComp": 0.3333,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "kentmere_400",
+      "name": "Kentmere 400",
       "iso": 400,
       "expComp": 0.0,
       "type": "blackAndWhite",
@@ -33,6 +152,14 @@
       "expComp": -0.3333,
       "type": "slide",
       "filter": "velvia"
+    },
+    {
+      "id": "kodak_ektachrome_e100",
+      "name": "Kodak Ektachrome E100",
+      "iso": 100,
+      "expComp": 0.0,
+      "type": "slide",
+      "filter": "ektachrome"
     }
   ]
 }
