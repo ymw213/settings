@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-06T00:00:00Z",
+  "presets": [
+    {
+      "id": "kodak_gold_200",
+      "name": "Kodak Gold 200",
+      "iso": 200,
+      "expComp": 0.6667,
+      "type": "colorNegative",
+      "filter": "warm"
+    },
+    {
+      "id": "kodak_portra_400",
+      "name": "Kodak Portra 400",
+      "iso": 400,
+      "expComp": 1.0,
+      "type": "colorNegative",
+      "filter": "portra"
+    },
+    {
+      "id": "kodak_tri_x_400",
+      "name": "Kodak Tri-X 400",
+      "iso": 400,
+      "expComp": 0.0,
+      "type": "blackAndWhite",
+      "filter": "bw"
+    },
+    {
+      "id": "fujifilm_velvia_50",
+      "name": "Fujifilm Velvia 50",
+      "iso": 50,
+      "expComp": -0.3333,
+      "type": "slide",
+      "filter": "velvia"
+    }
+  ]
+}
