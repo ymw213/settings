@@ -93,7 +93,7 @@
     },
     {
       "id": "kodak_tri_x_400",
-      "name": "Film 11",
+      "name": "Film 1",
       "reference": "Tri-X 400",
       "iso": 400,
       "expComp": 0.0,
@@ -102,7 +102,7 @@
     },
     {
       "id": "kodak_tmax_100",
-      "name": "Film 12",
+      "name": "Film 2",
       "reference": "T-Max 100",
       "iso": 100,
       "expComp": 0.0,
@@ -111,7 +111,7 @@
     },
     {
       "id": "kodak_tmax_400",
-      "name": "Film 13",
+      "name": "Film 3",
       "reference": "T-Max 400",
       "iso": 400,
       "expComp": 0.0,
@@ -120,7 +120,7 @@
     },
     {
       "id": "ilford_hp5_plus_400",
-      "name": "Film 14",
+      "name": "Film 4",
       "reference": "HP5 Plus 400",
       "iso": 400,
       "expComp": 0.3333,
@@ -129,7 +129,7 @@
     },
     {
       "id": "ilford_fp4_plus_125",
-      "name": "Film 15",
+      "name": "Film 5",
       "reference": "FP4 Plus 125",
       "iso": 125,
       "expComp": 0.0,
@@ -138,7 +138,7 @@
     },
     {
       "id": "ilford_delta_100",
-      "name": "Film 16",
+      "name": "Film 6",
       "reference": "Delta 100",
       "iso": 100,
       "expComp": 0.0,
@@ -147,7 +147,7 @@
     },
     {
       "id": "ilford_delta_3200",
-      "name": "Film 17",
+      "name": "Film 7",
       "reference": "Delta 3200",
       "iso": 3200,
       "expComp": 0.3333,
@@ -156,7 +156,7 @@
     },
     {
       "id": "kentmere_400",
-      "name": "Film 18",
+      "name": "Film 8",
       "reference": "Kentmere 400",
       "iso": 400,
       "expComp": 0.0,
@@ -165,7 +165,7 @@
     },
     {
       "id": "fujifilm_velvia_50",
-      "name": "Film 19",
+      "name": "Film 1",
       "reference": "Velvia 50",
       "iso": 50,
       "expComp": -0.3333,
@@ -174,7 +174,7 @@
     },
     {
       "id": "kodak_ektachrome_e100",
-      "name": "Film 20",
+      "name": "Film 2",
       "reference": "Ektachrome E100",
       "iso": 100,
       "expComp": 0.0,
